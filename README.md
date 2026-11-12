@@ -1,2 +1,2 @@
 # Databricks Features
-Repository for Databricks course materials and feature testing.
+Repository for Databricks feature testing.
